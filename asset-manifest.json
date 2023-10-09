@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c11ed04.css",
-    "main.js": "/static/js/main.a52c65e6.js",
-    "static/media/Signika-VariableFont_GRAD,wght.ttf": "/static/media/Signika-VariableFont_GRAD,wght.26fb9c4e91a558eb79b1.ttf",
-    "static/media/footerlogo.png": "/static/media/footerlogo.f1805f8d096a6038ab65.png",
-    "static/media/logo.png": "/static/media/logo.b07036eb26e7e624d0e8.png",
-    "index.html": "/index.html",
-    "main.4c11ed04.css.map": "/static/css/main.4c11ed04.css.map",
-    "main.a52c65e6.js.map": "/static/js/main.a52c65e6.js.map"
+    "main.css": "/CTRLFUTURE-project/static/css/main.1371f275.css",
+    "main.js": "/CTRLFUTURE-project/static/js/main.eb6e1f41.js",
+    "static/media/Signika-VariableFont_GRAD,wght.ttf": "/CTRLFUTURE-project/static/media/Signika-VariableFont_GRAD,wght.26fb9c4e91a558eb79b1.ttf",
+    "static/media/footerlogo.png": "/CTRLFUTURE-project/static/media/footerlogo.f1805f8d096a6038ab65.png",
+    "static/media/logo.png": "/CTRLFUTURE-project/static/media/logo.b07036eb26e7e624d0e8.png",
+    "index.html": "/CTRLFUTURE-project/index.html",
+    "main.1371f275.css.map": "/CTRLFUTURE-project/static/css/main.1371f275.css.map",
+    "main.eb6e1f41.js.map": "/CTRLFUTURE-project/static/js/main.eb6e1f41.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c11ed04.css",
-    "static/js/main.a52c65e6.js"
+    "static/css/main.1371f275.css",
+    "static/js/main.eb6e1f41.js"
   ]
 }
